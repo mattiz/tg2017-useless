@@ -1,4 +1,4 @@
-#The Gathering 2017 useless contribution
+# The Gathering 2017 useless contribution
 
 ## Description
 
@@ -7,13 +7,13 @@ Astrophysicist Neil deGrasse Tyson have put the odds at 50-50 that our entire ex
 
 This application will help you to find out if you're living in a computer simulation, or in the real world.
 
-##Author:
+## Author
 
 The MooG group
 
 Mathias Bjerke (mathbje@gmail.com)
 
-##Getting started
+## Getting started
 
 The program is written in Go (https://golang.org)
 
